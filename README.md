@@ -26,7 +26,7 @@
 
 ### Kernel
 
-https://github.com/dazui-py/a145r-ksu-reborn
+https://github.com/dazui-py/a145r-ksu-reborn/tree/recovery-ts-fix
 
 ### THANKS
 
@@ -36,6 +36,6 @@ plus all the contributors to TWRP ofcourse.
 
 d a z u i i @ X D A
 
-@dazuii
+@ddazui
 [Telegram](https://t.me/ddazui)
 
