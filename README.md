@@ -3,10 +3,10 @@
 | **Prop** | **spec** |
 | --- | --- |
 | `Codename` | **A14m** |
-| `Model` | **SM-A145P** |
+| `Model` | **SM-A145R** |
 | `Board` | **MediaTek MT679V (MT6768)** |
 | `Chipset` | **Helio G80** |
-| `OS` | **Android 13** |
+| `OS` | **Android 15** |
 
 ### TOUCHSCREEN
 
@@ -26,7 +26,7 @@
 
 ### Kernel
 
-https://github.com/forforksake/android_kernel_samsung_a145p
+https://github.com/dazui-py/a145r-ksu-reborn
 
 ### THANKS
 
@@ -34,8 +34,8 @@ Thanks to Physwizz initial device tree & kernel commits,
 SebaUbuntu's awesome twrpdtgen
 plus all the contributors to TWRP ofcourse.
 
-C F K o d @ X D A
+d a z u i i @ X D A
 
-@Cardiffian
-[Telegram](https://t.me/cardiffian)
+@dazuii
+[Telegram](https://t.me/ddazui)
 
