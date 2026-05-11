@@ -109,6 +109,7 @@ TW_INCLUDE_NTFS_3G := true
 TW_INCLUDE_PYTHON := true
 TW_HAS_DOWNLOAD_MODE := true
 TW_EXCLUDE_APEX := true
+TW_MAX_BRIGHTNESS := 255
 
 # touchscreen firmware added to vendor/firmware/gt9886*
 TW_SCREEN_BLANK_ON_BOOT := true
