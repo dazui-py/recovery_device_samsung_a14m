@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+recovery/root/vendor/firmware/** -text
+recovery/root/vendor/tee/** -text
+recovery/root/vendor/bin/** -text
+recovery/root/vendor/lib64/** -text
