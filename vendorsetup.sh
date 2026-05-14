@@ -38,6 +38,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	export TW_DEFAULT_LANGUAGE="en"
 	export LC_ALL="C"
 	export ALLOW_MISSING_DEPENDENCIES=true
+	export FOX_USE_SAMSUNG_SPECIAL=1
 
 	#reduce ofox size
 	export FOX_REMOVE_AAPT=1
