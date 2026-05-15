@@ -112,11 +112,13 @@ TW_EXCLUDE_APEX := true
 TW_MAX_BRIGHTNESS := 255
 
 # touchscreen firmware added to vendor/firmware/gt9886*
-TW_SCREEN_BLANK_ON_BOOT := true
+# TW_SCREEN_BLANK_ON_BOOT := true
+TW_NO_SCREEN_TIMEOUT := true
+TW_NO_SCREEN_BLANK := true
 
 # future Crypto Arguements
 TW_INCLUDE_CRYPTO := true
-#TW_PREPARE_DATA_MEDIA_EARLY := true
+# TW_PREPARE_DATA_MEDIA_EARLY := true
 TW_INCLUDE_CRYPTO_FBE := true
 TW_INCLUDE_FBE_METADATA_DECRYPT := true
 BOARD_USES_METADATA_PARTITION := true
