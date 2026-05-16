@@ -34,3 +34,5 @@ stock-recovery/
 stock-commons/
 stock-ramdisk
 
+# Stock system.prop
+system.prop
